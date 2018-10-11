@@ -1,0 +1,9 @@
+D:\测试代码\Framework\HHXpathTool\HHXpathTool\HHXpathTool\bin\Debug\HHXpathTool.exe.config
+D:\测试代码\Framework\HHXpathTool\HHXpathTool\HHXpathTool\bin\Debug\HHXpathTool.exe
+D:\测试代码\Framework\HHXpathTool\HHXpathTool\HHXpathTool\bin\Debug\HHXpathTool.pdb
+D:\测试代码\Framework\HHXpathTool\HHXpathTool\HHXpathTool\obj\Debug\HHXpath.FormMain.resources
+D:\测试代码\Framework\HHXpathTool\HHXpathTool\HHXpathTool\obj\Debug\HHXpathTool.Properties.Resources.resources
+D:\测试代码\Framework\HHXpathTool\HHXpathTool\HHXpathTool\obj\Debug\HHXpathTool.csproj.GenerateResource.cache
+D:\测试代码\Framework\HHXpathTool\HHXpathTool\HHXpathTool\obj\Debug\HHXpathTool.csproj.CoreCompileInputs.cache
+D:\测试代码\Framework\HHXpathTool\HHXpathTool\HHXpathTool\obj\Debug\HHXpathTool.exe
+D:\测试代码\Framework\HHXpathTool\HHXpathTool\HHXpathTool\obj\Debug\HHXpathTool.pdb

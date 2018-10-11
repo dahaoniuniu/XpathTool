@@ -1,0 +1,10 @@
+D:\测试代码\Framework\HHXpathTool\HHMagnet\HHMagnet\obj\Debug\HHXpath.csproj.GenerateResource.cache
+D:\测试代码\Framework\HHXpathTool\HHMagnet\HHMagnet\obj\Debug\HHXpath.csproj.CoreCompileInputs.cache
+D:\测试代码\Framework\HHXpathTool\HHMagnet\HHMagnet\obj\Debug\HHXpath.FormMain.resources
+D:\测试代码\Framework\HHXpathTool\HHMagnet\HHMagnet\obj\Debug\HHXpath.Properties.Resources.resources
+D:\测试代码\Framework\HHXpathTool\HHMagnet\HHMagnet\bin\Debug\HHXpath.exe.config
+D:\测试代码\Framework\HHXpathTool\HHMagnet\HHMagnet\bin\Debug\HHXpath.exe
+D:\测试代码\Framework\HHXpathTool\HHMagnet\HHMagnet\bin\Debug\HHXpath.pdb
+D:\测试代码\Framework\HHXpathTool\HHMagnet\HHMagnet\obj\Debug\HHXpath.exe
+D:\测试代码\Framework\HHXpathTool\HHMagnet\HHMagnet\obj\Debug\HHXpath.pdb
+D:\测试代码\Framework\HHXpathTool\HHMagnet\HHMagnet\obj\Debug\HHXpath.csprojResolveAssemblyReference.cache
